@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 require 'pry'
 
 class PigLatinizer
@@ -46,3 +47,14 @@ class PigLatinizer
 
 
 
+=======
+class PigLatinizer
+
+def piglatinize(phrase)
+  
+ 
+  
+end
+
+    
+>>>>>>> 3b27f196217260bc6205bdfb0ff7056955856060
